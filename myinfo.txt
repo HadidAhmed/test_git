@@ -1,2 +1,3 @@
 Name: Hadid Ahmed
-Name: Hadid Ahmad
+Email:hadidtaseer@ucp.edu.pk
+faculty of information technology
